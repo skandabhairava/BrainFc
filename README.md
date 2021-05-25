@@ -1,0 +1,3 @@
+-> Open cmd and cd into the dir with "bf.py"
+-> make a file <urfilename>.bf and run `python bf.py -i <urfilename>.bf` using cmd
+-> Optional command arguments `-o <filename>` to generate a log/record"# BrainFc" 
